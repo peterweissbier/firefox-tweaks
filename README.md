@@ -14,3 +14,7 @@ https://github.com/FilipePS/Traduzir-paginas-web
 about:config and set to true by clicking on the + to the right
 
 browser.urlbar.update2.engineAliasRefresh
+
+## template for custom search engines
+
+https://sitehere.com/search/?q={searchTerms}
