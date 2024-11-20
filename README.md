@@ -21,13 +21,13 @@
 
 ## remove "sign in with google" prompt
 
-* 1. install uBlock Origin
-* 2. select gear icon, select Import and append the following, apply changes
+  1. install uBlock Origin
+  2. select gear icon, select Import and append the following, apply changes
 
-* ||id.google.com^
+||id.google.com^
 
-* ||accounts.google.com/gsi/$3p
+||accounts.google.com/gsi/$3p
 
-* ||smartlock.google.com^
+||smartlock.google.com^
 
-* ! Block "Sign in with Google" iframe in top right corner of websites ||accounts.google.com/gsi/iframe 
+! Block "Sign in with Google" iframe in top right corner of websites ||accounts.google.com/gsi/iframe 
